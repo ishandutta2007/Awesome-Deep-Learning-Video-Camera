@@ -7,7 +7,7 @@
 <p align="center">
   <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a>
   <a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-  <a href="https://github.com/ishandutta2007/Awesome-Deep-Learning-Video-Camera"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Deep-Learning-Video-Camera?style=social" alt="GitHub Stars"/></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Deep-Learning-Video-Camera"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Deep-Learning-Video-Camera?style=social" alt="GitHub_Stars"/></a>
   <a href="https://github.com/ishandutta2007/Awesome-Deep-Learning-Video-Camera/fork"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Deep-Learning-Video-Camera?style=social" alt="GitHub Forks"/></a>
   <a href="https://github.com/ishandutta2007/Awesome-Deep-Learning-Video-Camera/blob/main/LICENSE"><img src="https://img.shields.io/github/license/ishandutta2007/Awesome-Deep-Learning-Video-Camera?color=blue" alt="License"/></a>
   <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
@@ -72,7 +72,7 @@ The table below lists leading SaaS and commercial deep learning video platforms,
 ## 🔓 Open-Source GitHub Projects
 
 > [!TIP]
-> Open-source edge vision projects enable fully local, privacy-respecting AI video surveillance without monthly cloud fees. Below projects are **sorted by GitHub Star Count (Descending)**:
+> Open-source edge vision projects enable fully local, privacy-respecting AI video surveillance without monthly cloud fees. Below projects are **sorted by GitHub Stars_Count (Descending)**:
 
 - **[OpenCV](https://github.com/opencv/opencv)** [![Stars](https://img.shields.io/github/stars/opencv/opencv?style=social&color=white)](https://github.com/opencv/opencv/stargazers)  
   **The world's leading open-source computer vision & machine learning software library**, Apache-2.0 licensed. **Fundamental foundation for real-time camera image processing**, feature extraction, video decoding, DNN module acceleration, and edge vision pipelines. 👁️
@@ -114,7 +114,7 @@ The table below lists leading SaaS and commercial deep learning video platforms,
 Contributions are warmly welcome! Help keep this deep learning video camera registry up-to-date by submitting new commercial platforms, edge vision hardware, or open-source NVR tools:
 
 1. 🍴 **Fork** the repository.
-2. 📝 **Add/edit** entries in `README.md` adhering to the table layout, star badges, and sorting criteria.
+2. 📝 **Add/edit** entries in `README.md` adhering to the table layout, Stars_Badges, and sorting criteria.
 3. 🔗 Include official project website/GitHub link, exact starting pricing, free tier details, and clear technical descriptions.
 4. 🚀 Open a **Pull Request** with a concise title and summary of changes.
 
